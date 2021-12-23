@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
  ##
  <div>
- <a href = "mailto:raquelpaiva15@hotmail.com"><img src="" target="_blank"></a>
+ <a href = "mailto:raquelpaiva15@hotmail.com"><img src="" target="_blank"><a href = "mailto:raquelpaiva15@hotmail.com"><img src="" target="_blank"></a>
+</a>
  <a href="https://www.linkedin.com/in/raquel--paiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank">
 
  </div>
