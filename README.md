@@ -1,7 +1,5 @@
 ## Olá, eu sou a Raquel 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on projects to promote knowledge and enrich portfolio
 - 🌱 I’m currently learning full stack technologies
 - 📫 How to reach me: raquelpaiva15@hotmail.com  
