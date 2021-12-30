@@ -1,4 +1,4 @@
-## Olá, eu sou a Raquel 👋
+## Hi, I'm Raquel 👋
 
 - 🔭 I’m currently working on projects to promote knowledge and enrich portfolio
 - 🌱 I’m currently learning full stack technologies
