@@ -1,9 +1,9 @@
 ## Hi, I'm Raquel 👋
 
-- 🔭 I’m currently working on projects to promote knowledge and enrich portfolio
-- 🌱 I’m currently learning full stack technologies
-- 📫 How to reach me: raquelpaiva15@hotmail.com  
-- 📫 How to reach me: https://www.linkedin.com/in/raquel--paiva/
+- 🔭 I’m currently working on projects to promote knowledge and enrich portfolio.
+- 🌱 I’m currently learning full stack technologies.
+- 📫 How to reach me: raquelpaiva15@hotmail.com.  
+- 📫 How to reach me: https://www.linkedin.com/in/raquel--paiva/.
  
  <div align="center">
   <a href="https://github.com/raquelpaiva">
