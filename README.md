@@ -1,7 +1,7 @@
 ## Hi, I'm Racheel 👋
 
 - 🔭 I’m currently working on projects to promote knowledge and enrich portfolio.
-- 🌱 I’m currently learning full stack technologies.
+- 🌱 I’m currently learning front-end habilities.
 - 📫 How to reach me: https://www.linkedin.com/in/raquel--paiva/.
  
  <div align="center">
